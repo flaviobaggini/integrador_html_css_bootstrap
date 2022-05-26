@@ -1,0 +1,117 @@
+.fondo {
+    background-image: url("../image/ba1edit.jpg");
+    height: 900px;
+    background-blend-mode: multiply;
+}
+
+.texto-caja {
+    padding-top: 25%;
+    padding-left: 55%;
+    padding-right: 8%;
+    text-align: justify;
+    font-weight: 600;
+}
+
+.textofoto {
+    color: white;
+
+}
+
+
+.enviarboton {
+    background-color: #96c93e;
+    color: white;
+    font-weight: 400;
+    height: 3rem;
+    border-style: none;
+    border-radius: 0.3rem;
+}
+
+.textomin {
+    text-align: center;
+    font-size: .8rem;
+
+}
+
+
+.card-body2 {
+    background-color: #353a40;
+    color: white;
+    height: 26.75rem;
+    padding-left: 1.5rem;
+    padding-right: 0.5rem;
+    padding-top: 1rem;
+}
+
+.textomax {
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 500;
+
+}
+
+.textomed {
+    text-align: center;
+}
+
+.formulario {
+
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding: auto;
+
+
+}
+
+.card-texto {
+    font-size: .9rem;
+}
+
+.btnstar {
+    border: none;
+    background-color: #dc3546;
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+    border-radius: .2rem;
+
+}
+
+.btnnego {
+    border: none;
+    background-color: #6a747d;
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+    border-radius: .2rem;
+}
+
+.btnreact {
+    border: none;
+    background-color: #17a3b5;
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+    border-radius: .2rem;
+}
+
+.btnjs {
+    border: none;
+    background-color: #fec007;
+    color: black;
+    font-weight: 700;
+    font-size: 1rem;
+    border-radius: .2rem;
+
+}
+
+.tarjetas {
+    margin: 5%;
+}
+
+.paisaje{
+
+    background-image: url("../image/honolulu.jpg");
+    background-size: contain;
+    background-repeat: round;
+}
